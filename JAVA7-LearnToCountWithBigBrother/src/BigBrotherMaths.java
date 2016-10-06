@@ -13,7 +13,7 @@
  */
 
 
-public class bigBrotherMaths {
+public class BigBrotherMaths {
 		 
        public static void bigBrotherCalc (int num1, int num2)
        {
